@@ -1,6 +1,4 @@
-# VCCW
-
-[![Build Status](https://travis-ci.org/vccw-team/vccw.svg?branch=master)](https://travis-ci.org/vccw-team/vccw)
+# 街コンよう
 
 This is a Vagrant configuration designed for development of WordPress plugins, themes, or websites.
 
